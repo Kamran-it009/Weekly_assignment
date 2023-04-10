@@ -1,4 +1,3 @@
-# Weekly_assignment
-There are two weekly assignments
-* Calculator.ts
-* Vowel_assignment.ts
+# How to run the calculator module
+* npm i calculator_kamran3
+* npx calculator-0348
